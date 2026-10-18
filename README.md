@@ -1,7 +1,7 @@
 # Hi there, I'm Ryan Lloyd Genturo 👋
 ### Computer Engineering Student · Software Developer · Embedded Systems Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-genturo.com-6a0c06?style=for-the-badge&logo=google-chrome&logoColor=white)](https://genturo.com)
+[![Ryan-Portfolio](https://img.shields.io/badge/Ryan--Portfolio-rykhaan.github.io%2FRyan--Portfolio-6a0c06?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rykhaan.github.io/Ryan-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-RyKhaan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyKhaan)
 [![Email](https://img.shields.io/badge/Email-ryanlloydgenturo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanlloydgenturo@gmail.com)
 
